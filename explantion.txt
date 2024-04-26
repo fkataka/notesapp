@@ -1,0 +1,11 @@
+JavaScript Logic:
+
+DOM elements are selected using document.getElementById and document.getElementsByClassName. 
+Event listeners are set for the “Add Note” button and the search input.
+Local storage is used to store and retrieve notes.
+Features of this project are as follows :
+
+Add a new note with a text description.
+View and delete existing notes.
+Responsive design using Bootstrap for a user-friendly experience.
+Search functionality to filter notes based on content.
